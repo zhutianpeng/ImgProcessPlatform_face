@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d001dfd9-8892-4649-b72f-003ca967cb77" name="messor_faceRecog" url="http://10.103.238.165">
+        <fileTransfer host="10.103.238.165" port="22" rootFolder="/home/messor/users/zhutianpeng/oldFile/zhanjianwen_face" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
